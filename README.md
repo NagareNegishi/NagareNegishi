@@ -7,7 +7,7 @@ Languages:     Java, C/C++, JavaScript (Learning)
 Architecture:  Design Patterns, OOP, Software Architecture Principles
 Systems:       Graphics Processing, Graph Algorithms, Data Management
 Tools:         Git, UML
-Game Dev:      Unreal Engine 5, Godot (Project Experience)
+Game Dev:      Unreal Engine 5, Godot
 ```
 
 ### 📚 Currently Learning
@@ -32,9 +32,10 @@ Game Dev:      Unreal Engine 5, Godot (Project Experience)
 
 ## 🎮 Project Portfolio
 Practical application of software engineering principles through game development:
-- Bar'acuda - Multi-threaded simulation system | [Play](https://games-for-people.itch.io/baracuda) · [Code](https://github.com/NagareNegishi/GGJ-Bar-acuda)
-- 1 Fuji 2 Hawk 3 Nasubi - Complex system interactions | [Play](https://negimakushi.itch.io/1-fuji-2-hawk-3-nasubi) · [Code](https://github.com/NagareNegishi/Game-jam2)
-- 7 Korobi 8 Oki - State management implementation | [Play](https://negimakushi.itch.io/7-korobi-8-oki)
+- Goblins' Fury - Tower defense with dynamic difficulty system and modular architecture | [Code](https://github.com/NagareNegishi/Tower-Defense-CGRA252)
+- Bar'acuda - Interactive service management simulation (48hr Game Jam)| [Play](https://games-for-people.itch.io/baracuda) · [Code](https://github.com/NagareNegishi/GGJ-Bar-acuda)
+- 1 Fuji 2 Hawk 3 Nasubi - Top-down competitive collector with AI-controlled entities (48hr Game Jam)| [Play](https://negimakushi.itch.io/1-fuji-2-hawk-3-nasubi) · [Code](https://github.com/NagareNegishi/Game-jam2)
+- 7 Korobi 8 Oki - Platformer with memory-based progression (48hr Game Jam)| [Play](https://negimakushi.itch.io/7-korobi-8-oki)
 
 ## 🗣️ Languages
 - Japanese (Native)
