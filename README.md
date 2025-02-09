@@ -1,56 +1,43 @@
 # Hi there! 👋 I'm Nagare Nagishi
 
-## 🎮 Game Developer & Software Engineer
-- 🎓 BSc in Computer Science (Computer Graphics & Games) at Victoria University of Wellington
-- 🌏 Based in Wellington, New Zealand
-- 🚀 Passionate about game development, graphics programming, and software architecture
+Software Engineer and Game Developer, focusing on graphics and game development. Currently completing BSc in Computer Science at Victoria University of Wellington.
 
 ## 💻 Technical Stack
 ```
-Languages:     Java, C/C++
-Game Dev:      Unreal Engine 5, Godot
-Tools:         Git, UML, AI Asset Generation
-Graphics:      Graph Algorithms, Graphics Processing Systems
-Architecture:  Design Patterns, OOP, Software Architecture Principles
+Languages:  Java, C/C++
+Game Dev:   Unreal Engine 5, Godot
+Tools:      Git, UML, AI Asset Generation
 ```
 
-## 🎯 Featured Projects
+## 🎮 Projects
 
-### 🕹️ Game Jam Projects (2024)
-- Led development of 3 unique games in 48-hour game jams using Unreal Engine 5 and Godot
-- Implemented diverse mechanics:
-  - Memory-based platforming
-  - Bullet-hell systems
-  - Management simulation
-- Utilized AI tools for rapid asset generation
-- 🔗 [Game Collection](link-to-games)
+### Game Jams (2024)
+- 1 Fuji 2 Hawk 3 Nasubi - Top-down collector | [Play](your-itch-link) · [Code](your-git-link)
+- 7 Korobi 8 Oki - Memory platformer | [Play](your-itch-link) · [Code](your-git-link)
+- Bar'acuda - Bar management sim | [Play](your-itch-link) · [Code](your-git-link)
 
-### 🎲 SWEN225 Group Project (2024)
-- Developed game UI and central controller using Java Swing
-- Implemented multiple design patterns for improved maintainability
-- Managed game logic and data persistence
-- Collaborated with team of 6 using Git
-- 🔗 [Project Repository](link-to-project)
+### SWEN225 Group Project (2024)
+- Java Swing-based game with UI controller and data persistence
+- Implemented design patterns for maintainability
+- 6-person team collaboration using Git
+- [View Project](link-to-project)
 
-## 🔧 Core Competencies
-- Low-level programming & memory management
-- Graphics processing systems
+## 🔧 Expertise
+- Graphics processing & algorithms
 - Software architecture & design patterns
-- Large dataset management
-- UML modeling (class & sequence diagrams)
-- Game mechanics & gameplay loops
+- Game mechanics & gameplay implementation
+- Low-level programming
+- UML modeling & system design
 
-## 🌏 Languages
-- 🇯🇵 Japanese (Native)
-- 🇬🇧 English (Fluent)
+## 🗣️ Languages
+- Japanese (Native)
+- English (Fluent)
 
-## 📫 Let's Connect!
+## 📫 Contact
 - 📧 [negishnaga@myvuw.ac.nz](mailto:negishnaga@myvuw.ac.nz)
 - 📱 021-089-84570
-- 🌐 [Portfolio](your-portfolio-link)
+- 🌏 Wellington, New Zealand
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NagareNegishi&show_icons=true&theme=tokyonight)
 
----
-*Currently seeking software engineering and game development opportunities to contribute to innovative projects while gaining valuable industry experience.*
+*Looking for software engineering and game development opportunities*
