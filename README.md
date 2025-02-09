@@ -1,5 +1,4 @@
 # Hi there! 👋 I'm Nagare Nagishi
-
 Software Engineer with strong foundations in system design and architecture, currently completing BSc in Computer Science at Victoria University of Wellington. Experienced in developing complex systems through both academic projects and game development.
 
 ## 💻 Technical Skills
@@ -17,12 +16,12 @@ Game Dev:      Unreal Engine 5, Godot (Project Experience)
 - Industry-standard web technologies
 
 ## 🔧 Software Development Experience
-
 ### SWEN225 Project (2024)
 - Implemented robust system architecture using design patterns
 - Developed UI controller and data persistence layers in Java
 - Practiced agile development in 6-person team environment
 - Focused on code maintainability and system scalability
+- [View Project](https://github.com/NagareNegishi/LarryCroftsAdventures)
 
 ### Technical Expertise
 - Low-level programming & memory management
@@ -33,11 +32,9 @@ Game Dev:      Unreal Engine 5, Godot (Project Experience)
 
 ## 🎮 Project Portfolio
 Practical application of software engineering principles through game development:
-
 - Bar'acuda - Multi-threaded simulation system | [Play](https://games-for-people.itch.io/baracuda) · [Code](https://github.com/NagareNegishi/GGJ-Bar-acuda)
 - 1 Fuji 2 Hawk 3 Nasubi - Complex system interactions | [Play](https://negimakushi.itch.io/1-fuji-2-hawk-3-nasubi) · [Code](https://github.com/NagareNegishi/Game-jam2)
-- 7 Korobi 8 Oki - State management implementation | [Play](https://negimakushi.itch.io/7-korobi-8-oki) · [Code](https://github.com/NagareNegishi/Game-jam1-nanakorobiyaoki)
-
+- 7 Korobi 8 Oki - State management implementation | [Play](https://negimakushi.itch.io/7-korobi-8-oki)
 
 ## 🗣️ Languages
 - Japanese (Native)
