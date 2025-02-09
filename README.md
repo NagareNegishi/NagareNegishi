@@ -1,33 +1,43 @@
 # Hi there! 👋 I'm Nagare Nagishi
 
-Software Engineer and Game Developer, focusing on graphics and game development. Currently completing BSc in Computer Science at Victoria University of Wellington.
+Software Engineer with strong foundations in system design and architecture, currently completing BSc in Computer Science at Victoria University of Wellington. Experienced in developing complex systems through both academic projects and game development.
 
-## 💻 Technical Stack
+## 💻 Technical Skills
 ```
-Languages:  Java, C/C++
-Game Dev:   Unreal Engine 5, Godot
-Tools:      Git, UML, AI Asset Generation
+Languages:     Java, C/C++, JavaScript (Learning)
+Architecture:  Design Patterns, OOP, Software Architecture Principles
+Systems:       Graphics Processing, Graph Algorithms, Data Management
+Tools:         Git, UML
+Game Dev:      Unreal Engine 5, Godot (Project Experience)
 ```
 
-## 🎮 Projects
+### 📚 Currently Learning
+- JavaScript & Modern Web Development
+- Full-stack development practices
+- Industry-standard web technologies
 
-### Game Jams (2024)
-- 1 Fuji 2 Hawk 3 Nasubi - Top-down collector | [Play](your-itch-link) · [Code](your-git-link)
-- 7 Korobi 8 Oki - Memory platformer | [Play](your-itch-link) · [Code](your-git-link)
-- Bar'acuda - Bar management sim | [Play](your-itch-link) · [Code](your-git-link)
+## 🔧 Software Development Experience
 
-### SWEN225 Group Project (2024)
-- Java Swing-based game with UI controller and data persistence
-- Implemented design patterns for maintainability
-- 6-person team collaboration using Git
-- [View Project](link-to-project)
+### SWEN225 Project (2024)
+- Implemented robust system architecture using design patterns
+- Developed UI controller and data persistence layers in Java
+- Practiced agile development in 6-person team environment
+- Focused on code maintainability and system scalability
 
-## 🔧 Expertise
-- Graphics processing & algorithms
-- Software architecture & design patterns
-- Game mechanics & gameplay implementation
-- Low-level programming
-- UML modeling & system design
+### Technical Expertise
+- Low-level programming & memory management
+- Large-scale data structure implementation
+- Software modeling and documentation
+- System architecture design
+- Test-driven development
+
+## 🎮 Project Portfolio
+Practical application of software engineering principles through game development:
+
+- Bar'acuda - Multi-threaded simulation system | [Play](https://games-for-people.itch.io/baracuda) · [Code](https://github.com/NagareNegishi/GGJ-Bar-acuda)
+- 1 Fuji 2 Hawk 3 Nasubi - Complex system interactions | [Play](https://negimakushi.itch.io/1-fuji-2-hawk-3-nasubi) · [Code](https://github.com/NagareNegishi/Game-jam2)
+- 7 Korobi 8 Oki - State management implementation | [Play](https://negimakushi.itch.io/7-korobi-8-oki) · [Code](https://github.com/NagareNegishi/Game-jam1-nanakorobiyaoki)
+
 
 ## 🗣️ Languages
 - Japanese (Native)
@@ -38,6 +48,6 @@ Tools:      Git, UML, AI Asset Generation
 - 📱 021-089-84570
 - 🌏 Wellington, New Zealand
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NagareNegishi&show_icons=true&theme=tokyonight)
+💡 *While development processes and coursework are in private GitLab repositories, final projects are available here on GitHub!*
 
-*Looking for software engineering and game development opportunities*
+*Seeking software engineering roles with a focus on system architecture and backend development*
