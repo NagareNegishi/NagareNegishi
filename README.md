@@ -1,21 +1,46 @@
 # Hi there! 👋 I'm Nagare Nagishi
-Software Engineer with strong foundations in system design and architecture, currently completing BSc in Computer Science at Victoria University of Wellington. Experienced in developing complex systems through both academic projects and game development.
+Software Engineer with strong foundations in system design and architecture. BSc Computer Science graduate (2025) from Victoria University of Wellington, experienced in developing complex systems through both academic and game development projects.
 
 ## 💻 Technical Skills
+
+### Software Engineering
 ```
-Languages:     Java, C/C++, JavaScript (Learning)
-Architecture:  Design Patterns, OOP, Software Architecture Principles
-Systems:       Graphics Processing, Graph Algorithms, Data Management
-Tools:         Git, UML
-Game Dev:      Unreal Engine 5, Godot
+Languages:      Java, C/C++, JavaScript
+Architecture:   Design Patterns, OOP, Software Architecture Principles
+Database:       PostgreSQL, SQL, Supabase, JDBC
+Web Dev:        HTML/CSS, JavaScript, API Integration, Geolocation Services
+Testing:        JUnit, JaCoCo (Coverage), Mock HTTP Testing
+Build Tools:    Maven
+Tools:          Git, UML
+```
+### Game Development
+```
+Engines:        Unreal Engine 5, Godot
+Core Skills:    Game Architecture, Systems Programming, UI Development
 ```
 
 ### 📚 Currently Learning
 - JavaScript & Modern Web Development
 - Full-stack development practices
-- Industry-standard web technologies
+- Automated testing frameworks
+- CI/CD pipelines and deployment workflows
+
+## 💼 Work Experience
+
+### Tutor - AI, Data Structures & Systems Programming
+**Victoria University of Wellington** | 2025
+- Providing technical support for C, C++, Java, and AI coursework
+- Managing AI lab sessions for 28 students
+- Assessing code quality, algorithm implementation, and programming methodology
 
 ## 🔧 Software Development Experience
+### Coffee Finder (2025)
+- Location-based web application using JavaScript, HTML/CSS, and Supabase (PostgreSQL)
+- Implemented geolocation services, interactive mapping, and external API integration
+- Created custom SQL functions for geospatial queries and distance calculations
+- [View Project](https://github.com/NagareNegishi/Coffee-Finder)
+- [Demo](https://nagarenegishi.com/Coffee-Finder/)
+
 ### SWEN225 Project (2024)
 - Implemented robust system architecture using design patterns
 - Developed UI controller and data persistence layers in Java
@@ -32,6 +57,7 @@ Game Dev:      Unreal Engine 5, Godot
 
 ## 🎮 Project Portfolio
 Practical application of software engineering principles through game development:
+- ChopChopServe - Competitive multiplayer cooking game featuring real-time network synchronization and interaction systems | [Code](https://github.com/NagareNegishi/ChopChopServe-Public)
 - Goblins' Fury - Tower defense with dynamic difficulty system and modular architecture | [Code](https://github.com/NagareNegishi/Tower-Defense-CGRA252)
 - Bar'acuda - Interactive service management simulation (48hr Game Jam)| [Play](https://games-for-people.itch.io/baracuda) · [Code](https://github.com/NagareNegishi/GGJ-Bar-acuda)
 - 1 Fuji 2 Hawk 3 Nasubi - Top-down competitive collector with AI-controlled entities (48hr Game Jam)| [Play](https://negimakushi.itch.io/1-fuji-2-hawk-3-nasubi) · [Code](https://github.com/NagareNegishi/Game-jam2)
@@ -42,7 +68,9 @@ Practical application of software engineering principles through game developmen
 - English (Fluent)
 
 ## 📫 Contact
-- 📧 [negishnaga@myvuw.ac.nz](mailto:negishnaga@myvuw.ac.nz)
+- 📧 [negishinaga@gmail.com](mailto:negishinaga@gmail.com)
+- 🌐 [nagarenegishi.com](https://nagarenegishi.com)
+- 💼 [LinkedIn](https://linkedin.com/in/nagare-negishi)
 <!-- - 📱 021-089-84570 -->
 - 🌏 Wellington, New Zealand
 
