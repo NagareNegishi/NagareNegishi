@@ -6,12 +6,12 @@ Software Engineer with strong foundations in system design and architecture. BSc
 ### Software Engineering
 ```
 Languages:      Java, C/C++, JavaScript
+Build Tools:    Maven, Docker
+Testing:        JUnit, Ceedling, JaCoCo (Coverage), Mock HTTP Testing, Valgrind
+Database:       Hibernate, JDBC, SQL (PostgreSQL, Supabase)
+Web Dev:        React, Tailwind, JavaScript, API Integration, Geolocation Services
 Architecture:   Design Patterns, OOP, Software Architecture Principles
-Database:       PostgreSQL, SQL, Supabase, JDBC
-Web Dev:        HTML/CSS, JavaScript, API Integration, Geolocation Services
-Testing:        JUnit, JaCoCo (Coverage), Mock HTTP Testing
-Build Tools:    Maven
-Tools:          Git, UML
+Tools:          Git,, GitHub Actions, UML
 ```
 ### Game Development
 ```
@@ -22,8 +22,7 @@ Core Skills:    Game Architecture, Systems Programming, UI Development
 ### 📚 Currently Learning
 - JavaScript & Modern Web Development
 - Full-stack development practices
-- Automated testing frameworks
-- CI/CD pipelines and deployment workflows
+- Test-Driven Development and Automated testing frameworks
 
 ## 💼 Work Experience
 
