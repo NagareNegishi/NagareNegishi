@@ -26,6 +26,12 @@ Core Skills:    Game Architecture, Systems Programming, UI Development
 
 ## 💼 Work Experience
 
+### Software Engineering Intern
+**Aviat Networks** | 2025 - 2026
+- Improving legacy C systems through unit testing with Ceedling framework
+- Ensuring code quality using Cppcheck (static analysis) and Valgrind (memory profiling)
+- Collaborating in Agile/Scrum environment with pair programming and Git workflows
+
 ### Tutor - AI, Data Structures & Systems Programming
 **Victoria University of Wellington** | 2025
 - Providing technical support for C, C++, Java, and AI coursework
