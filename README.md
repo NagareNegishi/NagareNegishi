@@ -11,7 +11,7 @@ Testing:        JUnit, Ceedling, JaCoCo (Coverage), Mock HTTP Testing, Valgrind
 Database:       Hibernate, JDBC, SQL (PostgreSQL, Supabase)
 Web Dev:        React, Tailwind, JavaScript, API Integration, Geolocation Services
 Architecture:   Design Patterns, OOP, Software Architecture Principles
-Tools:          Git,, GitHub Actions, UML
+Tools:          Git, GitHub Actions, UML
 ```
 ### Game Development
 ```
