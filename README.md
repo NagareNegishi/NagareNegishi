@@ -39,6 +39,12 @@ Core Skills:    Game Architecture, Systems Programming, UI Development
 - Assessing code quality, algorithm implementation, and programming methodology
 
 ## 🔧 Software Development Experience
+### Distributed Logging System (2025)
+- Built logging infrastructure with custom Log4j HTTP appender and REST API
+- Implemented database persistence with Hibernate/JPA, supporting H2 and external databases
+- Integrated JMX monitoring, transaction management, and multi-format export(CSV/HTML/Excel)
+- [View Project](https://github.com/NagareNegishi/Distributed-Logging-System)
+  
 ### Coffee Finder (2025)
 - Location-based web application using JavaScript, HTML/CSS, and Supabase (PostgreSQL)
 - Implemented geolocation services, interactive mapping, and external API integration
