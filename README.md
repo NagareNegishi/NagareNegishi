@@ -40,8 +40,8 @@ Core Skills:    Game Architecture, Systems Programming, UI Development
 
 ## 🔧 Software Development Experience
 ### Distributed Logging System (2025)
-- Built logging infrastructure with custom Log4j HTTP appender and REST API
-- Implemented database persistence with Hibernate/JPA, supporting H2 and external databases
+- Logging infrastructure with custom Log4j HTTP appender and REST API
+- Database persistence with Hibernate/JPA, supporting H2 and external databases
 - Integrated JMX monitoring, transaction management, and multi-format export(CSV/HTML/Excel)
 - [View Project](https://github.com/NagareNegishi/Distributed-Logging-System)
   
@@ -53,7 +53,7 @@ Core Skills:    Game Architecture, Systems Programming, UI Development
 - [Demo](https://nagarenegishi.com/Coffee-Finder/)
 
 ### SWEN225 Project (2024)
-- Implemented robust system architecture using design patterns
+- Robust system architecture using design patterns
 - Developed UI controller and data persistence layers in Java
 - Practiced agile development in 6-person team environment
 - Focused on code maintainability and system scalability
