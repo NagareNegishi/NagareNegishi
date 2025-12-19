@@ -1,5 +1,6 @@
 # Hi there! 👋 I'm Nagare Nagishi
 Software Engineer with strong foundations in system design and architecture. BSc Computer Science graduate (2025) from Victoria University of Wellington, experienced in developing complex systems through both academic and game development projects.
+Seeking software engineering roles with a focus on system architecture and backend development.
 
 ## 💻 Technical Skills
 
@@ -87,5 +88,3 @@ Practical application of software engineering principles through game developmen
 - 💼 [LinkedIn](https://linkedin.com/in/nagare-negishi)
 <!-- - 📱 021-089-84570 -->
 - 🌏 Wellington, New Zealand
-
-*Seeking software engineering roles with a focus on system architecture and backend development*
