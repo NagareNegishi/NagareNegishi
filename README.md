@@ -72,6 +72,7 @@ Pipeline:       Asset Integration, Designer Tools & Workflows
 Practical application of software engineering principles through game development:
 - ChopChopServe - Competitive multiplayer cooking game featuring real-time network synchronization and interaction systems | [Code](https://github.com/NagareNegishi/ChopChopServe-Public)
 - Goblins' Fury - Tower defense with dynamic difficulty system and modular architecture | [Code](https://github.com/NagareNegishi/Tower-Defense-CGRA252)
+- OpenGL Graphics Programming - Rendering fundamentals and techniques: [Ray Tracing](https://github.com/NagareNegishi/OpenGL-Ray-tracing) | [Boids Simulation](https://github.com/NagareNegishi/OpenGL-Boids) | [Geometry & Color](https://github.com/NagareNegishi/OpenGl-Geometry-and-colour) | [Transformations & Shading](https://github.com/NagareNegishi/OpenGl-Transformations-and-shading)
 - Bar'acuda - Interactive service management simulation (48hr Game Jam)| [Play](https://games-for-people.itch.io/baracuda) · [Code](https://github.com/NagareNegishi/GGJ-Bar-acuda)
 - 1 Fuji 2 Hawk 3 Nasubi - Top-down competitive collector with AI-controlled entities (48hr Game Jam)| [Play](https://negimakushi.itch.io/1-fuji-2-hawk-3-nasubi) · [Code](https://github.com/NagareNegishi/Game-jam2)
 - 7 Korobi 8 Oki - Platformer with memory-based progression (48hr Game Jam)| [Play](https://negimakushi.itch.io/7-korobi-8-oki)
