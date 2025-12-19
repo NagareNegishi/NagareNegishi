@@ -16,7 +16,9 @@ Tools:          Git, GitHub Actions, UML
 ### Game Development
 ```
 Engines:        Unreal Engine 5, Godot
-Core Skills:    Game Architecture, Systems Programming, UI Development
+Core Skills:    Game Architecture, Gameplay Programming, UI Development
+Multiplayer:    Networking Layer Implementation, Server-Client Systems, Room/Lobby Management
+Pipeline:       Asset Integration, Designer Tools & Workflows
 ```
 
 ### 📚 Currently Learning
