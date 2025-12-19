@@ -88,6 +88,4 @@ Practical application of software engineering principles through game developmen
 <!-- - 📱 021-089-84570 -->
 - 🌏 Wellington, New Zealand
 
-💡 *While development processes and coursework are in private GitLab repositories, final projects are available here on GitHub!*
-
 *Seeking software engineering roles with a focus on system architecture and backend development*
