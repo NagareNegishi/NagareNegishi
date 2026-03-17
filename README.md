@@ -6,13 +6,15 @@ Seeking software engineering roles with a focus on system architecture and backe
 
 ### Software Engineering
 ```
-Languages:      Java, C/C++, JavaScript
-Build Tools:    Maven, Docker
-Testing:        JUnit, Ceedling, JaCoCo (Coverage), Mock HTTP Testing, Valgrind
-Database:       Hibernate, JDBC, SQL (PostgreSQL, Supabase)
-Web Dev:        React, Tailwind, JavaScript, API Integration, Geolocation Services
-Architecture:   Design Patterns, OOP, Software Architecture Principles
-Tools:          Git, GitHub Actions, UML
+Languages:      Java, C#, C/C++, TypeScript/JavaScript, Python
+Build Tools:    Maven, Docker, Dev Containers, GitHub Actions CI/CD
+Testing:        JUnit, xUnit, Jest, Vitest, Ceedling, JaCoCo, Valgrind, Moq
+Backend:        ASP.NET Core, EF Core, ASP.NET Identity, Node.js, Express, Hibernate, JDBC
+Frontend:       React, React Native, Tailwind, Vite
+Database:       PostgreSQL, Supabase, SQL
+APIs:           REST APIs, Claude API, JSON Patch
+Architecture:   Design Patterns, OOP, Software Architecture
+Tools:          Git, Claude Code, Figma, UML
 ```
 ### Game Development
 ```
@@ -23,9 +25,9 @@ Pipeline:       Asset Integration, Designer Tools & Workflows
 ```
 
 ### 📚 Currently Learning
-- JavaScript & Modern Web Development
-- Full-stack development practices
-- Test-Driven Development and Automated testing frameworks
+- C# and .NET ecosystem (ASP.NET Core, EF Core, Identity)
+- AI-assisted development workflows (Claude Code, Dev Containers)
+- JWT authentication and token management patterns
 
 ## 💼 Work Experience
 
@@ -42,6 +44,21 @@ Pipeline:       Asset Integration, Designer Tools & Workflows
 - Assessing code quality, algorithm implementation, and programming methodology
 
 ## 🔧 Software Development Experience
+
+### Job Application Tracker (2026 — Ongoing)
+- Full-stack job tracker with JWT auth, refresh token rotation, and JSON Patch partial updates
+- ASP.NET Core API with EF Core, ASP.NET Identity, and PostgreSQL
+- React + TypeScript frontend with TanStack Query
+- Built from scratch while learning C#, then scaled with Claude Code in Dev Containers
+- [View Code](https://github.com/NagareNegishi/Job-Application-Tracker)
+
+### Pantry2Plate (2026)
+- AI-powered recipe generator using Claude API with ingredient and dietary preference matching
+- TypeScript monorepo with shared validation types across Express backend, React web, and React Native mobile
+- Docker Compose deployment with GitHub Actions CI/CD, Jest and Vitest testing
+- [View Project](https://github.com/NagareNegishi/Pantry2Plate)
+- [Demo](http://nagarenegishi.com/Pantry2Plate/)
+
 ### Distributed Logging System (2025)
 - Logging infrastructure with custom Log4j HTTP appender and REST API
 - Database persistence with Hibernate/JPA, supporting H2 and external databases
@@ -63,11 +80,11 @@ Pipeline:       Asset Integration, Designer Tools & Workflows
 - [View Project](https://github.com/NagareNegishi/LarryCroftsAdventures)
 
 ### Technical Expertise
-- Low-level programming & memory management
-- Large-scale data structure implementation
-- Software modeling and documentation
-- System architecture design
-- Test-driven development
+- Full-stack architecture with stateless JWT auth and token rotation
+- Test-driven development across Java, C#, C, and TypeScript
+- Legacy system analysis with static analysis and memory profiling
+- AI-assisted development workflows with Claude Code and Dev Containers
+- Monorepo architecture with shared types across web and mobile
 
 ## 🎮 Project Portfolio
 Practical application of software engineering principles through game development:
