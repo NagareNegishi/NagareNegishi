@@ -7,14 +7,14 @@ Seeking software engineering roles with a focus on system architecture and backe
 ### Software Engineering
 ```
 Languages:      Java, C#, C/C++, TypeScript/JavaScript, Python
-Build Tools:    Maven, Docker, Dev Containers, GitHub Actions CI/CD
 Testing:        JUnit, xUnit, Jest, Vitest, Ceedling, JaCoCo, Valgrind, Moq
 Backend:        ASP.NET Core, EF Core, ASP.NET Identity, Node.js, Express, Hibernate, JDBC
 Frontend:       React, React Native, Tailwind, Vite
 Database:       PostgreSQL, Supabase, SQL
+Cloud/DevOps:   AWS (EC2, S3, RDS), Docker, Dev Containers, GitHub Actions CI/CD
 APIs:           REST APIs, Claude API, JSON Patch
 Architecture:   Design Patterns, OOP, Software Architecture
-Tools:          Git, Claude Code, Figma, UML
+Tools:          Git, Maven, Claude Code, Figma, UML
 ```
 ### Game Development
 ```
