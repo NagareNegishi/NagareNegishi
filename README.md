@@ -104,4 +104,4 @@ Practical application of software engineering principles through game developmen
 - 🌐 [nagarenegishi.com](https://nagarenegishi.com)
 - 💼 [LinkedIn](https://linkedin.com/in/nagare-negishi)
 <!-- - 📱 021-089-84570 -->
-- 🌏 Wellington, New Zealand
+- 🌏 Auckland, New Zealand
