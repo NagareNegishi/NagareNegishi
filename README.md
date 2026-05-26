@@ -48,7 +48,9 @@ Pipeline:       Asset Integration, Designer Tools & Workflows
 ### Job Application Tracker (2026 — Ongoing)
 - Full-stack job tracker with JWT auth, refresh token rotation, and JSON Patch partial updates
 - ASP.NET Core API with EF Core, ASP.NET Identity, and PostgreSQL
-- React + TypeScript frontend with TanStack Query
+- React + TypeScript frontend with TanStack Query, table and Kanban views with drag-and-drop
+- AI auto-fill using Claude API to extract structured job data from pasted listings
+- Deployed to AWS (EC2 + Docker Compose, RDS, S3) with GitHub Actions CI/CD (test → build → migrate → deploy)
 - Built from scratch while learning C#, then scaled with Claude Code in Dev Containers
 - [View Code](https://github.com/NagareNegishi/Job-Application-Tracker)
 
