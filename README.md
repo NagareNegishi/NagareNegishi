@@ -53,6 +53,7 @@ Pipeline:       Asset Integration, Designer Tools & Workflows
 - Deployed to AWS (EC2 + Docker Compose, RDS, S3) with GitHub Actions CI/CD (test → build → migrate → deploy)
 - Built from scratch while learning C#, then scaled with Claude Code in Dev Containers
 - [View Code](https://github.com/NagareNegishi/Job-Application-Tracker)
+- [Demo](https://jobtracker.nagarenegishi.com/jobs/)
 
 ### Pantry2Plate (2026)
 - AI-powered recipe generator using Claude API with ingredient and dietary preference matching
