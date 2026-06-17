@@ -63,7 +63,7 @@ Pipeline:       Asset Integration, Designer Tools & Workflows
 - Government-registry integration with credential handling, registry-specific filtering, and MBIE attribution compliance
 - [View Project](https://github.com/NagareNegishi/company-verification)
 - [NuGet](https://www.nuget.org/packages/CompanyVerification.Core)
-- [Demo](https://company-verification.onrender.com) (Render free tier; first request may take 30–60s to wake)
+- [Demo query](https://company-verification.onrender.com/verify?name=spark&country=NZ) returns live JSON from the NZ register (Render free tier, first request may take 30–60s to wake)
 
 ### Pantry2Plate (2026)
 - AI-powered recipe generator using Claude API with ingredient and dietary preference matching
