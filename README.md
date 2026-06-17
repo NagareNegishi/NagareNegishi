@@ -55,6 +55,16 @@ Pipeline:       Asset Integration, Designer Tools & Workflows
 - [View Project](https://github.com/NagareNegishi/Job-Application-Tracker)
 - [Demo](https://jobtracker.nagarenegishi.com/jobs/)
 
+### Company Verification (2026)
+- Published .NET 10 NuGet package that verifies whether a company is registered and active in a country's official business registry
+- Adapter-per-country design keeps core logic untouched when a new registry is added, with New Zealand (NZBN) and Australia (ABR) built in
+- Normalized response shape across registries, with third-party adapters declaring their own conformance rules
+- Shared core consumed as a class library and an HTTP API, structured so an MCP server can sit on the same core
+- Government-registry integration with credential handling, registry-specific filtering, and MBIE attribution compliance
+- [View Project](https://github.com/NagareNegishi/company-verification)
+- [NuGet](https://www.nuget.org/packages/CompanyVerification.Core)
+- [Demo](https://company-verification.onrender.com) (Render free tier; first request may take 30–60s to wake)
+
 ### Pantry2Plate (2026)
 - AI-powered recipe generator using Claude API with ingredient and dietary preference matching
 - TypeScript monorepo with shared validation types across Express backend, React web, and React Native mobile
