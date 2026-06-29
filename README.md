@@ -45,7 +45,7 @@ Pipeline:       Asset Integration, Designer Tools & Workflows
 
 ## 🔧 Software Development Experience
 
-### Job Application Tracker (2026 — Ongoing)
+### Job Application Tracker (2026 - Ongoing)
 - Full-stack job tracker with JWT auth, refresh token rotation, and JSON Patch partial updates
 - ASP.NET Core API with EF Core, ASP.NET Identity, and PostgreSQL
 - React + TypeScript frontend with TanStack Query, table and Kanban views with drag-and-drop
