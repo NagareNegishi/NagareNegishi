@@ -1,20 +1,18 @@
-# Hi there! 👋 I'm Nagare Nagishi
-Software Engineer with strong foundations in system design and architecture. BSc Computer Science graduate (2025) from Victoria University of Wellington, experienced in developing complex systems through both academic and game development projects.
-Seeking software engineering roles with a focus on system architecture and backend development.
+# Nagare Nagishi
+Full-stack Software Engineer with live products.
 
-## 💻 Technical Skills
+BSc Computer Science, Victoria University of Wellington (2025). Tutored AI, Data Structures, and Systems Programming. Previously a Software Engineer at Aviat Networks.
+
+## Technical Skills
 
 ### Software Engineering
 ```
 Languages:      Java, C#, C/C++, TypeScript/JavaScript, Python
-Testing:        JUnit, xUnit, Jest, Vitest, Ceedling, JaCoCo, Valgrind, Moq
 Backend:        ASP.NET Core, EF Core, ASP.NET Identity, Node.js, Express, Hibernate, JDBC
 Frontend:       React, React Native, Tailwind, Vite
-Database:       PostgreSQL, Supabase, SQL
-Cloud/DevOps:   AWS (EC2, S3, RDS), Docker, Dev Containers, GitHub Actions CI/CD
-APIs:           REST APIs, Claude API, JSON Patch
-Architecture:   Design Patterns, OOP, Software Architecture
-Tools:          Git, Maven, Claude Code, Figma, UML
+Database:       PostgreSQL, SQLite
+Testing:        JUnit, xUnit, Jest, Vitest, Ceedling, JaCoCo, Valgrind, Moq
+DevOps:         AWS (EC2, RDS, S3, ECR), Docker, Dev Containers, Maven, NuGet, GitHub Actions CI/CD, Render, Cloudflare
 ```
 ### Game Development
 ```
@@ -23,29 +21,9 @@ Core Skills:    Game Architecture, Gameplay Programming, UI Development
 Multiplayer:    Networking Layer Implementation, Server-Client Systems, Room/Lobby Management
 Pipeline:       Asset Integration, Designer Tools & Workflows
 ```
+## Software Development Experience
 
-### 📚 Currently Learning
-- C# and .NET ecosystem (ASP.NET Core, EF Core, Identity)
-- AI-assisted development workflows (Claude Code, Dev Containers)
-- JWT authentication and token management patterns
-
-## 💼 Work Experience
-
-### Software Engineering Intern
-**Aviat Networks** | 2025 - 2026
-- Improving legacy C systems through unit testing with Ceedling framework
-- Ensuring code quality using Cppcheck (static analysis) and Valgrind (memory profiling)
-- Collaborating in Agile/Scrum environment with pair programming and Git workflows
-
-### Tutor - AI, Data Structures & Systems Programming
-**Victoria University of Wellington** | 2025
-- Providing technical support for C, C++, Java, and AI coursework
-- Managing AI lab sessions for 28 students
-- Assessing code quality, algorithm implementation, and programming methodology
-
-## 🔧 Software Development Experience
-
-### Job Application Tracker (2026 - Ongoing)
+### Job Application Tracker (2026)
 - Full-stack job tracker with JWT auth, refresh token rotation, and JSON Patch partial updates
 - ASP.NET Core API with EF Core, ASP.NET Identity, and PostgreSQL
 - React + TypeScript frontend with TanStack Query, table and Kanban views with drag-and-drop
@@ -53,7 +31,6 @@ Pipeline:       Asset Integration, Designer Tools & Workflows
 - Deployed to AWS (EC2 + Docker Compose, RDS, S3) with GitHub Actions CI/CD (test → build → migrate → deploy)
 - Built from scratch while learning C#, then scaled with Claude Code in Dev Containers
 - [View Project](https://github.com/NagareNegishi/Job-Application-Tracker)
-- [Demo](https://jobtracker.nagarenegishi.com/jobs/)
 
 ### Company Verification (2026)
 - Published .NET 10 NuGet package that verifies whether a company is registered and active in a country's official business registry
