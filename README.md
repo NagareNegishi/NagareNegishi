@@ -4,6 +4,7 @@ Full-stack Software Engineer with live products.
 BSc Computer Science, Victoria University of Wellington (2025). Previously a Software Engineering Intern at Aviat Networks and a tutor in AI, Data Structures, and Systems Programming.
 
 ## Now
+- JavaScript Developer at Pippzie, building features for a live learning platform used by several client organisations
 - Building and running [Kajitor](https://kajitor.com), a live job application tracker with AI features, billing, and automated deployment
 - Publishing [Company Verification](https://www.nuget.org/packages/CompanyVerification.Core), a .NET NuGet package that checks company registrations against official business registries
 - Developing AI-assisted workflows with coding agents under fixed rules and permissions
